@@ -1,0 +1,34 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "name": "Skrivla",
+  "short_name": "Skrivla",
+  "description": "Skrivla is a minimal collaborative text editor. Perfect for quick thoughts, meeting notes and team brainstorming.",
+  "display": "standalone",
+  "screenshots": [
+    {
+      "src": "screenshot-narrow.png",
+      "type": "image/png",
+      "sizes": "700x1000",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot-wide.png",
+      "type": "image/png",
+      "sizes": "1000x700",
+      "form_factor": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/appicon-maskable.svg",
+      "sizes": "any",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/appicon-any.svg",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
